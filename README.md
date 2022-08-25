@@ -8,7 +8,7 @@ Previously, I worked at the [University of Chicago Energy & Environment Lab](htt
 
 Find me at...
 
-- email: jas \[at\] jsliu.dev
+- email: jas.jiesi.liu \[at\] gmail.com
 - linkedin: [jas-liu](https://www.linkedin.com/in/jas-liu/)
 - site: [jsliu.dev](https://jsliu.dev)
 
