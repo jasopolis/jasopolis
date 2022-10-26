@@ -2,15 +2,15 @@
 
 Hi, I'm Jas Liu! (Pronounced “jase”, rhymes with chase). My pronouns are [they/them](//my.pronoun.is/they).
 
-I'm a Software Engineer at [Radix Labs](//radix.bio), where we build integrated automation solutions for biology labs. I currently lead front-end development for our Rainbow lab database and Timberland service controller, as well as general user authentication and navigation.
+I’m a software engineer at [Morning Consult](https://morningconsult.com/), working on data analytics tools and applications.
 
-Previously, I worked at the [University of Chicago Energy & Environment Lab](https://urbanlabs.uchicago.edu/labs/energy-environment), where I developed predictive analytics models and data engineering processes for environmental policy research with the U.S. EPA, California Air Resources Board, and other agency partners.
+Previously, I worked at an early-stage startup developing integrated automation solutions for biologists, where I led front-end engineering for their lab inventory management system. Before that, I was a junior policy associate at the [University of Chicago Energy & Environment Lab](https://urbanlabs.uchicago.edu/labs/energy-environment), where I developed predictive analytics models and data engineering processes for environmental policy research with the U.S. EPA, California Air Resources Board, and other agency partners.
 
 Find me at...
 
-- email: jas.jiesi.liu \[at\] gmail.com
+- email: jas \[at\] jsliu.dev
 - linkedin: [jas-liu](https://www.linkedin.com/in/jas-liu/)
-- site: [jsliu.dev](https://jsliu.dev)
+- personal site: [jsliu.dev](https://jsliu.dev)
 
 Talk to me in English, Cantonese, or Mandarin!
 
