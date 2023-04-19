@@ -1,6 +1,6 @@
 # Jas Liu (劉傑思)
 
-Hi, I'm Jas Liu! (Pronounced “jase”, rhymes with chase). My pronouns are [they/them](//my.pronoun.is/they).
+Hi, I'm Jas Liu! (Pronounced “jase”, rhymes with chase).
 
 I’m a software engineer at [Morning Consult](https://morningconsult.com/), working on data analytics tools and applications.
 
