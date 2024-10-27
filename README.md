@@ -2,7 +2,7 @@
 
 Hi, I'm Jas Liu! (Pronounced “jase”, rhymes with chase).
 
-I’m a software engineer at [Morning Consult](https://morningconsult.com/), working on data analytics tools and applications.
+I’m a software engineer on the Machine Learning team at [Morning Consult](https://morningconsult.com/), working on ML-driven features in our survey data analytics platform.
 
 Previously, I worked at an early-stage startup developing integrated automation solutions for biologists, where I led front-end engineering for their lab inventory management system. Before that, I was a junior policy associate at the [University of Chicago Energy & Environment Lab](https://urbanlabs.uchicago.edu/labs/energy-environment), where I developed predictive analytics models and data engineering processes for environmental policy research with the U.S. EPA, California Air Resources Board, and other agency partners.
 
